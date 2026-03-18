@@ -1,4 +1,4 @@
-// Problem: Create and Traverse Singly Linked List
+// Problem: Count Nodes in Linked List
 
 // Input:
 // - First line: integer n
@@ -43,11 +43,15 @@ int main() {
         }
     }
 
+    int count = 0;
     temp = head;
+
     while(temp != NULL) {
-        printf("%d ", temp->data);
+        count++;
         temp = temp->next;
     }
+
+    printf("%d", count);
 
     return 0;
 }
