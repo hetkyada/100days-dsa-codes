@@ -2,7 +2,7 @@
 
 // Input:
 // - First line: two integers m and n representing the number of rows and columns
-// - Next m lines: n integers each representing the elements of the first matrix
+// - Next m lines: n integers each representing the elements of the first matrix 
 // - Next m lines: n integers each representing the elements of the second matrix
 
 // Output:
