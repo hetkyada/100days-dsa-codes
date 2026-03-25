@@ -5,7 +5,7 @@
 // - Second line: n space-separated integers
 
 // Output:
-// - Print the pair of elements whose sum is closest to zero
+// - Print the pair of elements whose sum is closest to zero 
 
 // Example:
 // Input:

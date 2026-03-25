@@ -7,7 +7,7 @@
 // - Fourth line: m space-separated integers (second list)
 
 // Output:
-// - Print the merged linked list elements, space-separated
+// - Print the merged linked list elements, space-separated 
 
 // Example:
 // Input:

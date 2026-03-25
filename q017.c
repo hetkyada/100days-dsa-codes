@@ -1,6 +1,6 @@
 // Problem: Write a program to find the maximum and minimum values present in a given array of integers.
 
-// Input:
+// Input: 
 // - First line: integer n
 // - Second line: n integers
 

@@ -8,7 +8,7 @@
 // Output:
 // - Print the rotated array
 
-// Example:
+// Example: 
 // Input:
 // 5
 // 1 2 3 4 5
