@@ -7,7 +7,7 @@
 // Output:
 // - Print the result
 
-// Example:
+// Example: 
 // Input:
 // 5
 // 10 20 30 40 50
