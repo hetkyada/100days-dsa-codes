@@ -7,7 +7,7 @@
 // Output:
 // - Print the count of subarrays having sum zero
 
-// Example:
+// Example: 
 // Input:
 // 6
 // 1 -1 2 -2 3 -3
