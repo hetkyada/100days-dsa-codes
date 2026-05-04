@@ -2,7 +2,7 @@
 Day 30: Polynomial Using Linked List
 
 Problem: Polynomial Using Linked List - Implement using linked list with dynamic memory allocation.
-
+ 
 Input:
 - First line: integer n (number of terms)
 - Next n lines: two integers (coefficient and exponent)
