@@ -9,7 +9,7 @@ Use -1 to indicate no direct edge between two vertices.
 
 Output Format
 Print the shortest distance matrix.
-
+ 
 Sample Input
 4
 0 5 -1 10
