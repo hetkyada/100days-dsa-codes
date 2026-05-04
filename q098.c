@@ -2,7 +2,7 @@
 Problem: Given intervals, merge all overlapping ones.
 Sort first, then compare with previous.
 
-Assumed Input Format
+Assumed Input Format 
 First line: n
 Next n lines: start end
 */
