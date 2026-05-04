@@ -7,7 +7,7 @@ Problem: Implement Quick Sort using partition method (Lomuto or Hoare).
 
 static void swap(int *a, int *b)
 {
-    int temp = *a;
+    int temp = *a; 
     *a = *b;
     *b = temp;
 }
