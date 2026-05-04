@@ -1,6 +1,6 @@
 /*
 Day 71: Hash Table Using Quadratic Probing
-
+ 
 Problem:
 Implement a hash table using quadratic probing with formula:
 
