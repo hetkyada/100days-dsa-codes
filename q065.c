@@ -1,7 +1,7 @@
 /*
 Day 65: Cycle Detection in Undirected Graph (DFS)
 
-Problem: Using DFS and parent tracking, detect if undirected graph has a cycle.
+Problem: Using DFS and parent tracking, detect if undirected graph has a cycle. 
 
 Input:
 - Number of vertices
