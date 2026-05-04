@@ -7,7 +7,7 @@ Implement a Min Heap using an array where the smallest element is always at the 
 Supported Operations:
 - insert x
 - extractMin
-- peek
+- peek 
 
 Input Format:
 - First line contains integer N
