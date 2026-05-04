@@ -2,7 +2,7 @@
 Problem: Implement merge sort (divide, sort halves, merge).
 Print sorted array.
 */
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
