@@ -1,7 +1,7 @@
 /*
 Day 74: Winner of an Election
 
-Problem:
+Problem: 
 Given candidate names as votes, find the candidate with the maximum votes.
 If there is a tie, choose the lexicographically smallest name.
 */
