@@ -3,7 +3,7 @@ Problem: Implement Insertion Sort - Implement the algorithm.
 
 Input:
 - First line: integer n
-- Second line: n space-separated integers
+- Second line: n space-separated integers 
 
 Output:
 - Print the sorted array or search result
