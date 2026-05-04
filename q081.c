@@ -1,5 +1,5 @@
 /*
-Problem: Implement Bubble Sort - Implement the algorithm.
+Problem: Implement Bubble Sort - Implement the algorithm. 
 
 Input:
 - First line: integer n
