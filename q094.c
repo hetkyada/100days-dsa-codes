@@ -2,7 +2,7 @@
 Problem: Sort array of non-negative integers using counting sort.
 Find max, build frequency array, compute sorted output.
 */
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
