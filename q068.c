@@ -1,5 +1,5 @@
 /*
-Day 68: Topological Sort (Kahn's BFS Algorithm)
+Day 68: Topological Sort (Kahn's BFS Algorithm) 
 
 Problem: Implement topological sorting using in-degree array and queue (Kahn's Algorithm).
 
