@@ -1,6 +1,6 @@
 /*
 Problem: Given meeting intervals, find minimum number of rooms required.
-Sort by start time and use a min-heap or equivalent overlap counting logic.
+Sort by start time and use a min-heap or equivalent overlap counting logic. 
 
 Assumed Input Format
 First line: n
