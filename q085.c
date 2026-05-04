@@ -2,7 +2,7 @@
 Problem: Implement Merge Sort - Implement the algorithm.
 
 Input:
-- First line: integer n
+- First line: integer n 
 - Second line: n space-separated integers
 
 Output:
