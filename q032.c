@@ -1,5 +1,5 @@
 /*
-Day 32: Push and Pop in Stack
+Day 32: Push and Pop in Stack 
 
 Problem: Implement push and pop operations on a stack and verify stack operations.
 
