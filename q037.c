@@ -7,7 +7,7 @@ Implement a Priority Queue using an array. An element with smaller value has hig
 Supported Operations:
 - insert x
 - delete
-- peek
+- peek 
 
 Input Format:
 - First line contains integer N
