@@ -7,7 +7,7 @@ First line: target
 Second line: n
 Third line: n space-separated positions
 Fourth line: n space-separated speeds
-*/
+*/ 
 
 #include <stdio.h>
 #include <stdlib.h>
