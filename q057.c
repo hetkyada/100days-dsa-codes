@@ -6,7 +6,7 @@ Convert a binary tree into its mirror image by swapping left and right children 
 
 Input Format:
 - First line contains integer N
-- Second line contains level-order traversal (-1 indicates NULL)
+- Second line contains level-order traversal (-1 indicates NULL) 
 
 Output Format:
 - Print inorder traversal of mirrored tree
