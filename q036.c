@@ -3,7 +3,7 @@ Day 36: Circular Queue Using Array
 
 Problem: Circular Queue Using Array - Implement using linked list with dynamic memory allocation.
 
-Input:
+Input: 
 - First line: integer n (number of elements to enqueue)
 - Second line: n space-separated integers
 - Third line: integer m (number of dequeue operations)
