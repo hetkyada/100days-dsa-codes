@@ -3,7 +3,7 @@ Problem: Implement merge sort (divide, sort halves, merge).
 Print sorted array.
 */
  
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdlib.h>
 
 static void merge(int arr[], int left, int mid, int right)
