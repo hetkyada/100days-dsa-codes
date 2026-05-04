@@ -1,6 +1,6 @@
 /*
 Problem: Implement Selection Sort - Implement the algorithm.
-
+ 
 Input:
 - First line: integer n
 - Second line: n space-separated integers
