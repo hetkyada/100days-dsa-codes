@@ -3,7 +3,7 @@ Day 35: Queue Using Array
 
 Problem: Queue Using Array - Implement using linked list with dynamic memory allocation.
 
-Input:
+Input: 
 - First line: integer n (number of elements)
 - Second line: n space-separated integers
 
