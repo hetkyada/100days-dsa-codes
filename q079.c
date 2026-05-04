@@ -3,7 +3,7 @@ Problem Statement
 Find shortest distances from source vertex in a weighted graph with non-negative weights.
 
 Input Format
-First line contains number of vertices and edges.
+First line contains number of vertices and edges. 
 Next m lines contain edges in the form u v w.
 Last line contains the source vertex. 
 
