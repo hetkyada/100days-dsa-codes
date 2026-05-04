@@ -2,7 +2,7 @@
 Problem Statement
 Given weighted undirected graph, compute total weight of Minimum Spanning Tree using Prim's algorithm.
 
-Input Format
+Input Format 
 First line contains number of vertices and edges.
 Next m lines contain edges in the form u v w.
 
