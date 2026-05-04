@@ -1,7 +1,7 @@
 /*
 Day 49: BST Insert
 
-Problem: BST Insert
+Problem: BST Insert 
 
 Implement the solution for this problem.
 
