@@ -1,7 +1,7 @@
 /*
 Day 64: Breadth First Search (BFS)
 
-Problem: Perform BFS from a given source using queue.
+Problem: Perform BFS from a given source using queue. 
 
 Input:
 - n
