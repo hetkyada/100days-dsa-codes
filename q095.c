@@ -3,7 +3,7 @@ Problem: Given n real numbers in [0,1), sort using bucket sort algorithm.
 Distribute into buckets, sort each, concatenate.
 */
 
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdlib.h>
 
 typedef struct {
