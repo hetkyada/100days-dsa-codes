@@ -1,6 +1,6 @@
 /*
 Day 73: First Non-Repeating Character
-
+ 
 Problem:
 Given a string of lowercase English letters, find the first character
 that does not repeat. If all characters repeat, print '$'.
