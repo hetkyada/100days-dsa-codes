@@ -2,7 +2,7 @@
 Day 69: Dijkstra's Algorithm (Shortest Path)
 
 Problem: Given a weighted graph with non-negative edges, compute the shortest path
-from a source vertex using a priority queue.
+from a source vertex using a priority queue. 
 
 Input:
 - Number of vertices
