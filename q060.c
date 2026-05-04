@@ -1,6 +1,6 @@
 /*
 Day 60: Validate Min-Heap
-
+ 
 Problem Statement:
 Check whether a given binary tree satisfies the Min-Heap property.
 
