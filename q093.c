@@ -5,7 +5,7 @@ Stable sort. Good for nearly sorted arrays.
 
 #include <stdio.h>
 #include <stdlib.h>
-
+ 
 static void insertionSort(int arr[], int n)
 {
     for (int i = 1; i < n; i++)
