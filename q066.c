@@ -1,7 +1,7 @@
 /*
 Day 66: Cycle Detection in Directed Graph
 
-Problem: Detect cycle in directed graph using DFS and recursion stack.
+Problem: Detect cycle in directed graph using DFS and recursion stack. 
 
 Input:
 - Number of vertices
