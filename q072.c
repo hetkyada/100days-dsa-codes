@@ -1,7 +1,7 @@
 /*
 Day 72: First Repeated Character
 
-Problem:
+Problem: 
 Given a string of lowercase letters, find the first repeated character.
 If no character repeats, print -1.
 */
