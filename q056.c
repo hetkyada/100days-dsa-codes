@@ -1,7 +1,7 @@
 /*
 Day 56: Symmetric Binary Tree Check
 
-Problem Statement:
+Problem Statement: 
 Check whether a given binary tree is symmetric around its center.
 
 Input Format:
