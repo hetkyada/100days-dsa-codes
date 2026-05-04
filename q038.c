@@ -6,7 +6,7 @@ Problem: Deque (Double-Ended Queue)
 A Deque is a linear data structure that allows insertion and deletion of elements from both the front and the rear. It provides more flexibility than a standard queue or stack.
 
 Common Operations:
-1. push_front(value): Insert an element at the front of the deque.
+1. push_front(value): Insert an element at the front of the deque. 
 2. push_back(value): Insert an element at the rear of the deque.
 3. pop_front(): Remove an element from the front of the deque.
 4. pop_back(): Remove an element from the rear of the deque.
