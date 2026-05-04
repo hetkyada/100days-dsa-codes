@@ -4,7 +4,7 @@ Day 43: Binary Tree Construction (Level Order)
 Problem Statement:
 Construct a Binary Tree from the given level-order traversal.
 
-Input Format:
+Input Format: 
 - First line contains integer N
 - Second line contains N space-separated integers (-1 represents NULL)
 
