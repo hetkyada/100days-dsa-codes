@@ -4,7 +4,7 @@ Day 44: Binary Tree Traversals
 Problem Statement:
 Perform inorder, preorder, and postorder traversals of a given binary tree.
 
-Input Format:
+Input Format: 
 - First line contains integer N
 - Second line contains level-order traversal (-1 represents NULL)
 
