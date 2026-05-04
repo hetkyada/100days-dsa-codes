@@ -5,7 +5,7 @@ Problem: Circular Linked List Creation and Traversal - Implement using linked li
 
 Input:
 - First line: integer n
-- Second line: n space-separated integers
+- Second line: n space-separated integers 
 
 Output:
 - Print the circular linked list elements starting from head, space-separated
