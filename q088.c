@@ -7,7 +7,7 @@ This is an optimization problem where binary search on the answer is required.
 Input Format
 n k
 n space-separated integers representing stall positions
-
+ 
 Output Format
 Print the maximum possible minimum distance between any two cows.
 
