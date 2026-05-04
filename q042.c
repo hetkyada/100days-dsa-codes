@@ -2,7 +2,7 @@
 Day 42: Reverse a Queue Using Stack
 
 Problem Statement:
-Given a queue of integers, reverse the queue using a stack.
+Given a queue of integers, reverse the queue using a stack. 
 
 Input Format:
 - First line contains integer N
