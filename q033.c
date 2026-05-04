@@ -3,7 +3,7 @@ Day 33: Infix to Postfix Conversion
 
 Problem: Convert an infix expression to postfix notation using stack.
 
-Input:
+Input: 
 - Single line: infix expression (operands are single characters)
 
 Output:
